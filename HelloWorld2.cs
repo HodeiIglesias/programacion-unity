@@ -8,7 +8,7 @@ public class HelloWorld2 : MonoBehaviour
     void Start()
     {
         //Output to the console greetings to  the world
-        print("Hello, World");
+        print("Hello, World!");
     }
 
     // Update is called once per frame
